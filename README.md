@@ -59,8 +59,7 @@ This project is an interactive Excel Dashboard built using IPL data from 2008–
 - Dashboard Design
 
 ## 📷 Dashboard Preview
-
-![IPL Dashboard](/dashboard_screenshot2.png)
+![IPL Dashboard](dashboard_screenshot%202.png)
 
 ## 📈 Key Insights
 - Teams winning the toss and choosing to field first show a higher win percentage.
